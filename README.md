@@ -12,7 +12,7 @@ To run the customer interface please follow the steps below:
 - git clone "git@github.com:jens87alpen/Node.js-MySQL.git"
 - cd bamazon
 - npm install
-- node bamazonCustomer.js
+- node bamazon.js
 
 ## Bamazon Demo
 https://drive.google.com/drive/folders/1Z_bZUwTJLv6UrheUms3p489ovLbmb65m?usp=sharing
